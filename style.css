@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background: linear-gradient(black 38%, cyan 80%);
+}
+img{
+    width:190px;
+}
+h2{
+    letter-spacing: 30;
+    
+}
